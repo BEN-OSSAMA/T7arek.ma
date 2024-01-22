@@ -27,6 +27,6 @@ T7arek.ma is a comprehensive platform dedicated to empowering individuals and co
 
 ## Contact
 
-For inquiries or collaborations, reach out to OUSSAMA BEN KACEM (mailto:oussamabenkacem1@gmail.com) and Youssef Kanjae (mailto:ysf.knj@gmail.com).
+For inquiries or collaborations, reach out to OUSSAMA BEN KACEM (mailto: oussamabenkacem1@gmail.com) and Youssef Kanjae (mailto: ysf.knj@gmail.com).
 
 Join us at T7arek.ma and embark on a transformative journey toward a happier and more fulfilling life!
