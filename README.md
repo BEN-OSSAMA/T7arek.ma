@@ -17,13 +17,13 @@ T7arek.ma is a comprehensive platform dedicated to empowering individuals and co
 
 ## Getting Started
 
-1. Clone the repository: `git clone [repository-url]`
+1. Clone the repository: `git clone git@github.com:BEN-OSSAMA/T7arek.ma.git`
 2. Install dependencies: `npm install`
 3. Run the project: `npm start`
 
 // ## License // after incha2allah hhhhh
 
-// This project is licensed under [License Name]. See the [LICENSE](link-to-license) file for details. //
+// This project is licensed under [License Name]. See the [LICENSE](link-to-license) file for details. // after
 
 ## Contact
 
